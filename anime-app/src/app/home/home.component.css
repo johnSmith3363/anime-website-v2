@@ -1,0 +1,16 @@
+.manga-list{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap:9px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(208, 208, 212);
+}
+.manga-list::after{
+    content:"";
+    width:300px;
+}
+.manga{
+    background-color:rgb(202, 199, 207);
+}
