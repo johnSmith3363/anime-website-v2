@@ -1,0 +1,11 @@
+.manga-box{
+    width:300px;
+    background-color: rgb(203, 203, 218);
+
+}
+
+.manga-box img{
+    width:100%;
+    height:200px;
+    object-fit:cover;
+}
