@@ -69,7 +69,9 @@ export class MangaService {
       name:"Valvare The Liberator",
       image:"./assets/Manga/valvavre.png",
       description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
-    }
+    },
+
+  
   ];
 
   getAllMangas():Manga[]

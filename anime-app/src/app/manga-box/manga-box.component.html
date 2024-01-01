@@ -1,4 +1,5 @@
 <div class="manga-box">
     <img [src]="manga.image">
     <h3>{{manga.name}}</h3>
+    <a [routerLink]="['/details', manga.id]">Details</a>
 </div>
