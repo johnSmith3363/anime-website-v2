@@ -71,6 +71,73 @@ export class MangaService {
       description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
     },
 
+    {
+      id:9,
+      name:"Black Clover",
+      image:"./assets/Manga/black_clover.jpeg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:10,
+      name:"Trigun",
+      image:"./assets/Manga/trigun.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:11,
+      name:"Darling in the Franxxx",
+      image:"./assets/Manga/darling.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:12,
+      name:"Sword Art Onlinne",
+      image:"./assets/Manga/sword.png",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:13,
+      name:"Tokyo Ghoul",
+      image:"./assets/Manga/ghoul.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:14,
+      name:"Inuyasha",
+      image:"./assets/Manga/inuyasha.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:15,
+      name:"Blue Lock",
+      image:"./assets/Manga/blue_lock.jpeg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:16,
+      name:"Bleach",
+      image:"./assets/Manga/bleach.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:17,
+      name:"The Eminence in Shadow",
+      image:"./assets/Manga/em.jpeg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:18,
+      name:"One Piece",
+      image:"./assets/Manga/one_piece.png",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+    {
+      id:19,
+      name:"Naruto Shippuden",
+      image:"./assets/Manga/naruto.jpg",
+      description:"The year is 71 in the True Calendar and most of the population of Earth now lives in an era of space exploration. This progress has been made possible through the development of the \"Dyson Sphere\"- a large space city. Global powers are divided into two rival factions- the Dorssia Military Pact Federation and the Atlantic Rim United States (ARUS). However, JIOR, a small and neutral nation, keeps the peace by focusing on economic prosperity and avoiding taking sides in the conflict.Haruto Tokishima is a typical high school student living in Module 77 in JIOR's Sphere. His life takes a dramatic turn when the Dorssian military suddenly invades. In the midst of the chaos, Haruto encounters the mysterious humanoid weapon, Valvrave, which changes the course of human history forever."
+    },
+
   
   ];
 
